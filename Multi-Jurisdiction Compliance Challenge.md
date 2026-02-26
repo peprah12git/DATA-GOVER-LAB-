@@ -5,6 +5,16 @@ Analysis of legal rights
 Abena has a conditional right to request deletion under Ghana’s Data Protection Act (DPA). Although the Act does not explicitly use the phrase “Right to be Forgotten,” it provides individuals with the right to prevent processing that is unnecessary, excessive, or causes distress. Where personal data is no longer necessary for the purpose for which it was collected, the data subject may request erasure or blocking of such data.
 Since Abena has no outstanding orders, disputes, or ongoing contractual obligations, her request qualifies for lawful assessment and partial approval.
 
+---
+## File Structure: Multi-Jurisdiction Compliance Challenge.md
+
+1. Title: Multi-Jurisdiction Compliance Response Matrix
+2. Case studies (Customer A: Abena, Customer B: Lukas)
+    - Analysis, Obligations, Retainable data, Response Deadline, Draft Response
+3. Compliance comparison table (Ghana DPA, GDPR, CCPA/CPRA)
+
+---
+
 ShopGhana’s Obligations are: Verify identity
 •	Assess lawful retention grounds
 •	Delete non-essential personal data
@@ -100,14 +110,14 @@ Regarding deletion, your account contains information necessary to resolve your 
 We will notify you once deletion is completed.”
 
 
-	Element                |    Ghana DPA	            GDPR	                            CCPA/CPRA
-Right to Deletion Exists?        Yes (Conditional)	    Yes (explicit Article 17)	        Yes
-Exemptions/Conditions	        Legal obligations	  Legal obligation, legal claims	 Transaction completion, legal claims
 
-Response Deadline	              21 days	               1 month	                        45 days
-
-Penalties	                     Fines & criminal	         €20M or 4% global turnover	    $2,500–$7,500 per violation
-                                     liability
-Consent Requirements	        Lawful basis required	       Strict lawful basis	        Notice + opt-out model
+| Element                     | Ghana DPA                | GDPR (EU)                      | CCPA/CPRA (California)           |
+|-----------------------------|--------------------------|-------------------------------|-----------------------------------|
+| Right to Deletion Exists?    | Yes (Conditional)        | Yes (explicit Article 17)      | Yes                               |
+| Exemptions/Conditions       | Legal obligations        | Legal obligation, legal claims | Transaction completion, legal claims |
+| Response Deadline           | 21 days                  | 1 month                        | 45 days                           |
+| Penalties                   | Fines & criminal         | €20M or 4% global turnover     | $2,500–$7,500 per violation       |
+|                             | liability                |                               |                                   |
+| Consent Requirements        | Lawful basis required    | Strict lawful basis            | Notice + opt-out model            |
 
 
